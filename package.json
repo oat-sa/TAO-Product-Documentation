@@ -1,0 +1,21 @@
+{
+  "name": "tao-product-documentation",
+  "version": "1.0.0",
+  "description": "Product documentation for the TAO agentic project",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "keywords": [
+    "documentation",
+    "agentic",
+    "tao",
+    "vitepress"
+  ],
+  "license": "MIT"
+}
